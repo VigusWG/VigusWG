@@ -1,5 +1,4 @@
-#### Hey!
-
+#### 👋 Hey!
 # I'm **Vigus**
 I'm a 17 year old passionate computer "scientist" who's learning as much as possible!
 
