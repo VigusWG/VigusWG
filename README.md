@@ -1,6 +1,6 @@
 #### 👋 Hey!
 # I'm **Vigus**
-I'm a 17 year old passionate computer "scientist" who's learning as much as possible!
+I'm a 18 year old passionate computer "scientist" who's learning as much as possible!
 
 - 🏫 I am currently in Y13 studying Computer Science, Maths, and Physics
 - 🗺️ I'm from London
