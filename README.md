@@ -1,6 +1,6 @@
 #### 👋 Hey!
 # I'm **Vigus**
-I'm a 18 year old passionate computer "scientist" who's learning as much as possible!
+I'm a 19 year old passionate computer "scientist" who's learning as much as possible!
 
 - 🏫 I am currently a university undergraduate studying Computer Science at the University of Liverpool
 - 🗺️ I'm from London
